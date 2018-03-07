@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "РАНДОМ", "ConsoleApp10\РАНДОМ.csproj", "{DDF19589-9AB4-4A05-A171-607CE29A0F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF19589-9AB4-4A05-A171-607CE29A0F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF19589-9AB4-4A05-A171-607CE29A0F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF19589-9AB4-4A05-A171-607CE29A0F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF19589-9AB4-4A05-A171-607CE29A0F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {822D3648-950D-4CFB-BFE5-8AA8EE175C01}
+	EndGlobalSection
+EndGlobal
